@@ -22,4 +22,21 @@
 		app:layout_constraintEnd_toEndOf="parent"
 		app:layout_constraintStart_toStartOf="parent"
 		app:layout_constraintTop_toTopOf="parent" />
+
+	<Button
+		android:id="@+id/Button"
+		android:layout_width="432dp"
+		android:layout_height="69dp"
+		android:text="Top"
+		tools:layout_editor_absoluteX="-15dp"
+		tools:layout_editor_absoluteY="-8dp" />
+
+	<Button
+		android:id="@+id/Button2"
+		android:layout_width="432dp"
+		android:layout_height="69dp"
+		android:text="Button"
+		tools:layout_editor_absoluteX="-11dp"
+		tools:layout_editor_absoluteY="539dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
